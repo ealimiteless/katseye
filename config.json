@@ -2,9 +2,9 @@
   "ads_settings": {
     "show_ads": true,
     "admob_app_id": "ca-app-pub-6335103216414556~3399089387",
-    "unit_id_banner": "ca-app-pub-6335103216414556/7241109736",
-    "unit_id_interstitial": "ca-app-pub-6335103216414556/4614946391",
-    "unit_id_open_ads": "ca-app-pub-6335103216414556/6837785050",
+    "unit_id_banner": "ca-app-pub-3940256099942544/6300978111",
+    "unit_id_interstitial": "ca-app-pub-3940256099942544/1033173712",
+    "unit_id_open_ads": "ca-app-pub-3940256099942544/9257395921",
     "interstitial_interval": 3 
   },
   "app_update": {
